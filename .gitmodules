@@ -4,3 +4,12 @@
 [submodule "lab2"]
 	path = lab2
 	url = git@github.com:Leixb/PAR_lab2.git
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:Leixb/UPC-PAR_lab3.git
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:Leixb/UPC-PAR_lab4.git
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:Leixb/UPC-PAR_lab5.git
